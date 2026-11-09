@@ -23,8 +23,6 @@ Esta unidad trabaja el **RA1** del módulo *Sistemas Informáticos* (0483): **ev
 | d) Se han clasificado, instalado y configurado diferentes tipos de dispositivos periféricos. | Apartados 7 y 9 |
 | e) Se han identificado los tipos de redes y sistemas de comunicación. | Apartado 7 (tarjetas de red y estándares Wi-Fi). Se amplía en la Unidad 5. |
 | f) Se han identificado los componentes de una red informática. | Apartado 7 (introducción). Se amplía en la Unidad 5. |
-| g) Se han interpretado mapas físicos y lógicos de una red informática. | Pendiente de desarrollar. |
-| h) Se han reconocido las normas de seguridad y prevención de riesgos laborales en el uso de los sistemas informáticos. | Pendiente de desarrollar. |
 
 ## Contenido de la unidad
 

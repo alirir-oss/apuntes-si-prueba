@@ -26,7 +26,7 @@ Aquesta unitat treballa el **RA2** del mòdul *Sistemes Informàtics* (0483): **
 | c) S'han comparat sistemes operatius sobre la base dels seus requisits, característiques, camps d'aplicació i llicències d'ús. | Apartats 3 i 6 |
 | d) S'ha planificat el procés de la instal·lació de sistemes operatius. | Apartats 4, 5 i 6 |
 | e) S'han instal·lat i actualitzat sistemes operatius lliures i propietaris. | Apartat 6 |
-| f) S'han aplicat tècniques d'actualització i recuperació del sistema. | Apartat 6 (actualitzacions). Les tècniques de recuperació estan pendents d'ampliar. |
+| f) S'han aplicat tècniques d'actualització i recuperació del sistema. | Apartat 6 |
 | g) S'han utilitzat tecnologies de virtualització per a instal·lar i provar sistemes operatius. | Apartats 7 a 11 |
 | h) S'han instal·lat, desinstal·lat i actualitzat aplicacions. | Apartat 6 |
 | i) S'han documentat els processos realitzats. | Pràctiques de la unitat (memòries d'instal·lació) |

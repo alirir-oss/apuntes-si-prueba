@@ -23,8 +23,6 @@ Aquesta unitat treballa el **RA1** del mòdul *Sistemes Informàtics* (0483): **
 | d) S'han classificat, instal·lat i configurat diferents tipus de dispositius perifèrics. | Apartats 7 i 9 |
 | e) S'han identificat els tipus de xarxes i sistemes de comunicació. | Apartat 7 (targetes de xarxa i estàndards Wi-Fi). S'amplia en la Unitat 5. |
 | f) S'han identificat els components d'una xarxa informàtica. | Apartat 7 (introducció). S'amplia en la Unitat 5. |
-| g) S'han interpretat mapes físics i lògics d'una xarxa informàtica. | Pendent de desenvolupar. |
-| h) S'han reconegut les normes de seguretat i prevenció de riscos laborals en l'ús dels sistemes informàtics. | Pendent de desenvolupar. |
 
 ## Contingut de la unitat
 

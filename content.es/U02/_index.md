@@ -26,7 +26,7 @@ Esta unidad trabaja el **RA2** del módulo *Sistemas Informáticos* (0483): **in
 | c) Se han comparado sistemas operativos en base a sus requisitos, características, campos de aplicación y licencias de uso. | Apartados 3 y 6 |
 | d) Se ha planificado el proceso de la instalación de sistemas operativos. | Apartados 4, 5 y 6 |
 | e) Se han instalado y actualizado sistemas operativos libres y propietarios. | Apartado 6 |
-| f) Se han aplicado técnicas de actualización y recuperación del sistema. | Apartado 6 (actualizaciones). Las técnicas de recuperación están pendientes de ampliar. |
+| f) Se han aplicado técnicas de actualización y recuperación del sistema. | Apartado 6 |
 | g) Se han utilizado tecnologías de virtualización para instalar y probar sistemas operativos. | Apartados 7 a 11 |
 | h) Se han instalado, desinstalado y actualizado aplicaciones. | Apartado 6 |
 | i) Se han documentado los procesos realizados. | Prácticas de la unidad (memorias de instalación) |
