@@ -2,6 +2,7 @@
 title: "Unidad 3"
 weight: 3
 translationKey: "u03"
+bookCollapseSection: true
 ---
 
 # Unidad 3. Automatización de tareas y *shell scripting*

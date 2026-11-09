@@ -2,6 +2,7 @@
 title: "Unitat 4"
 weight: 4
 translationKey: "u04"
+bookCollapseSection: true
 ---
 
 # Unitat 4. Administració de sistemes operatius i usuaris

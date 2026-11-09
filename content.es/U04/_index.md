@@ -2,6 +2,7 @@
 title: "Unidad 4"
 weight: 4
 translationKey: "u04"
+bookCollapseSection: true
 ---
 
 # Unidad 4. Administración de sistemas operativos y usuarios
